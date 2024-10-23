@@ -193,7 +193,7 @@ export default {
   }
 
 }
-@media (max-width: 1700px) {
+@media (max-width: 1850px) {
 
   #projects {
     height: 100%;

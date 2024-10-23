@@ -1,7 +1,7 @@
 <template>
   <footer id="footer">
     <div class="footer-content">
-      <h3>Jason Beucher</h3>
+      <h3>© Jason Beucher</h3>
       <p>Vous pouvez me contacter via les plateformes suivantes.</p>
       <div class="social-links">
         <a href="https://www.linkedin.com/in/jason-beucher" target="_blank" aria-label="LinkedIn">

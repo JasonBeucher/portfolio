@@ -31,6 +31,7 @@ export default {
   height: 100vh;
   position: relative;
   min-height: 600px;
+  overflow:auto;
 }
 
 .about-container {

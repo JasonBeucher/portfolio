@@ -111,7 +111,7 @@ export default {
 
 @media (max-width: 1600px) {
   .skill-category {
-    width: 32%;
+    width: 30%;
   }
 }
 
